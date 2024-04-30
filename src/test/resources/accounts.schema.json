@@ -29,6 +29,8 @@
         "default": 0
       },
       "currency": {
+        "type": "string",
+        "pattern":"^RUR","USD$"
         "enum": [
           "RUB",
           "USD"
