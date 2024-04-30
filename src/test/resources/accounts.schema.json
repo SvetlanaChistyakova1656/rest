@@ -30,11 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "pattern":"^RUR","USD$"
-        "enum": [
-          "RUB",
-          "USD"
-        ]
+        "enum": ["RUB", "USD"]
       }
     }
   }
